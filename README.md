@@ -1,5 +1,5 @@
 # procedural_landscape
-a gh script for generating landscapes based on input curves
+a gh script for generating landscapes based on input curves for streets, rivers and building meshes
 
 launch grasshopper inside rhino, from example .3dm file for best results
 
