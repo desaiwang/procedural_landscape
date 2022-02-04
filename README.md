@@ -5,5 +5,5 @@ launch grasshopper inside rhino, from example .3dm file for best results
 
 You can modify c# components to customize:
 
-creek generation (depth, width), currently based on sin and cosine functions
+creek generation (depth, width), currently based on sin and cosine functions \n
 the density of trees, currently based on height and slope of landscape
